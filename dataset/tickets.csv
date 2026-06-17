@@ -1,0 +1,16 @@
+Ticket,Category,Priority
+Internet is not working,Network,High
+VPN connection failed,Network,High
+WiFi disconnecting frequently,Network,Medium
+Forgot password,Account,Medium
+Unable to login,Account,High
+Reset my password,Account,Low
+Printer not printing,Hardware,Medium
+Laptop not turning on,Hardware,High
+Mouse not working,Hardware,Low
+Keyboard issue,Hardware,Low
+Software installation failed,Software,Medium
+Application crashing,Software,High
+Need software update,Software,Low
+Email not receiving,Email,High
+Need email configuration,Email,Low
